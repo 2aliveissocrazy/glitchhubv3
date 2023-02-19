@@ -7,5 +7,5 @@ if game.PlaceId == 6516141723 then
 })
     end
 if game.PlaceId == 6839171747 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/2aliveissocrazy/glitchhubv3/main/doors/hotel.lua'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/2aliveissocrazy/glitchhubv3/main/doors/main.lua'))()
 end
